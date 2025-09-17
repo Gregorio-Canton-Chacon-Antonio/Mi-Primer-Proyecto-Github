@@ -37,8 +37,8 @@ Vamos a crear un espacio para tu proyecto en la nube de GitHub.
 3. **Completa los detalles del repositorio:**
     - **Repository name:** Dale un nombre descriptivo a tu proyecto, por ejemplo: mi-primerproyecto-prepa.
     - **Description (optional):** Escribe una breve descripción de tu proyecto (ej. "Un proyecto de ejemplo para aprender Git y GitHub").
-    - **Public/Private:** Selecciona "Public" (Público) para que otros puedan verlo y potencialmente contribuir (¡excelente para tu portafolio!), o "Private" (Privado) si prefieres mantenerlo solo para ti.
-    - **Initialize this repository with:** Marca la casilla "Add a README file". El archivo README.md es una descripción de tu proyecto y es una buena práctica incluirlo siempre.
+    - **Public/Private:** Selecciona **"Public"** (Público) para que otros puedan verlo y potencialmente contribuir (¡excelente para tu portafolio!), o "Private" (Privado) si prefieres mantenerlo solo para ti.
+    - **Initialize this repository with:** Marca la casilla **"Add a README file"**. El archivo README.md es una descripción de tu proyecto y es una buena práctica incluirlo siempre.
 4. **Crea el repositorio:** Haz clic en el botón verde "Create repository".
 5. **Modifica el archivo README.md:** Añade tus datos generales y una foto tuya, la información debe de estar en formato markdown.
 6. **Crea un nuevo archivo llamado instrucciones.md:** Copia toda la información de esta actividad al archivo en formato markdown.
