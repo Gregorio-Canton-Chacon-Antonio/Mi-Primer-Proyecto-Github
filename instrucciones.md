@@ -19,12 +19,12 @@ Git es la herramienta que te permitirá interactuar con GitHub desde tu computad
 1. **Descarga Git:** Ve a [git-scm.com/downloads](https://ejemplo.com "Título del enlace") y descarga el instalador para tu sistema operativo (Windows, macOS o Linux).
 2. **Instala Git:** Ejecuta el instalador y sigue los pasos. En la mayoría de los casos, puedes dejar las opciones predeterminadas.
 3. **Configura tu identidad en Git:** Es crucial que Git sepa quién eres cuando haces cambios. Abre tu Terminal y ejecuta los siguientes comandos, reemplazando con tu nombre y correo electrónico:
-4. git config --global user.name "Tu Nombre Completo"
-5. git config --global user.email "tu.email@ejemplo.com"
+4. `git config --global user.name "Tu Nombre Completo"`
+5. `git config --global user.email "tu.email@ejemplo.com"`
     - El --global significa que esta configuración se aplicará a todos tus proyectos en esta
 computadora. Git almacenará esto en un archivo llamado .gitconfig.
 7. **Verifica la configuración:** Para asegurarte de que todo está correcto, ejecuta:
-8. git config --global --list
+8. `git config --global --list`
 
 Deberías ver tu nombre de usuario y correo electrónico en la lista.
 
@@ -59,7 +59,7 @@ hay un icono para copiar al portapapeles).
  (Ejemplo: git clone https://github.com/tu-usuario/mi-primer-proyecto-prepa.git). Este comando descargará una copia completa de tu repositorio (incluyendo el README.md) en una nueva carpeta con el nombre de tu repositorio.)
 
 7. **Entra a la carpeta del proyecto:**
-8. cd mi-primer-proyecto-prepa
+8. `cd mi-primer-proyecto-prepa`
 
 Ahora estás dentro de la carpeta local de tu repositorio.
 
